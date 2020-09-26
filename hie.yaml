@@ -1,0 +1,6 @@
+cradle:
+  stack:
+    - path: "./lib"
+      component: "jijo:lib"
+    - path: "./test"
+      component: "jijo:test:jijo-test"
